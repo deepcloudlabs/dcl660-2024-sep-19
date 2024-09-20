@@ -1,0 +1,371 @@
+{
+    "_id": 'TUR',
+    "capital": 3358,
+    "cities": [
+      {
+        district: 'Istanbul',
+        _id: 3357,
+        name: 'Istanbul',
+        population: 8787958
+      },
+      {
+        district: 'Ankara',
+        _id: 3358,
+        name: 'Ankara',
+        population: 3038159
+      },
+      {
+        district: 'Izmir',
+        _id: 3359,
+        name: 'Izmir',
+        population: 2130359
+      },
+      {
+        district: 'Adana',
+        _id: 3360,
+        name: 'Adana',
+        population: 1131198
+      },
+      {
+        district: 'Bursa',
+        _id: 3361,
+        name: 'Bursa',
+        population: 1095842
+      },
+      {
+        district: 'Gaziantep',
+        _id: 3362,
+        name: 'Gaziantep',
+        population: 789056
+      },
+      {
+        district: 'Konya',
+        _id: 3363,
+        name: 'Konya',
+        population: 628364
+      },
+      {
+        district: 'Içel',
+        _id: 3364,
+        name: 'Mersin (Içel)',
+        population: 587212
+      },
+      {
+        district: 'Antalya',
+        _id: 3365,
+        name: 'Antalya',
+        population: 564914
+      },
+      {
+        district: 'Diyarbakir',
+        _id: 3366,
+        name: 'Diyarbakir',
+        population: 479884
+      },
+      {
+        district: 'Kayseri',
+        _id: 3367,
+        name: 'Kayseri',
+        population: 475657
+      },
+      {
+        district: 'Eskisehir',
+        _id: 3368,
+        name: 'Eskisehir',
+        population: 470781
+      },
+      {
+        district: 'Sanliurfa',
+        _id: 3369,
+        name: 'Sanliurfa',
+        population: 405905
+      },
+      {
+        district: 'Samsun',
+        _id: 3370,
+        name: 'Samsun',
+        population: 339871
+      },
+      {
+        district: 'Malatya',
+        _id: 3371,
+        name: 'Malatya',
+        population: 330312
+      },
+      {
+        district: 'Kocaeli',
+        _id: 3372,
+        name: 'Gebze',
+        population: 264170
+      },
+      {
+        district: 'Denizli',
+        _id: 3373,
+        name: 'Denizli',
+        population: 253848
+      },
+      {
+        district: 'Sivas',
+        _id: 3374,
+        name: 'Sivas',
+        population: 246642
+      },
+      {
+        district: 'Erzurum',
+        _id: 3375,
+        name: 'Erzurum',
+        population: 246535
+      },
+      {
+        district: 'Adana',
+        _id: 3376,
+        name: 'Tarsus',
+        population: 246206
+      },
+      {
+        district: 'Kahramanmaras',
+        _id: 3377,
+        name: 'Kahramanmaras',
+        population: 245772
+      },
+      {
+        district: 'Elâzig',
+        _id: 3378,
+        name: 'Elâzig',
+        population: 228815
+      },
+      { district: 'Van', _id: 3379, name: 'Van', population: 219319 },
+      {
+        district: 'Istanbul',
+        _id: 3380,
+        name: 'Sultanbeyli',
+        population: 211068
+      },
+      {
+        district: 'Kocaeli',
+        _id: 3381,
+        name: 'Izmit (Kocaeli)',
+        population: 210068
+      },
+      {
+        district: 'Manisa',
+        _id: 3382,
+        name: 'Manisa',
+        population: 207148
+      },
+      {
+        district: 'Batman',
+        _id: 3383,
+        name: 'Batman',
+        population: 203793
+      },
+      {
+        district: 'Balikesir',
+        _id: 3384,
+        name: 'Balikesir',
+        population: 196382
+      },
+      {
+        district: 'Sakarya',
+        _id: 3385,
+        name: 'Sakarya (Adapazari)',
+        population: 190641
+      },
+      {
+        district: 'Hatay',
+        _id: 3386,
+        name: 'Iskenderun',
+        population: 153022
+      },
+      {
+        district: 'Osmaniye',
+        _id: 3387,
+        name: 'Osmaniye',
+        population: 146003
+      },
+      {
+        district: 'Çorum',
+        _id: 3388,
+        name: 'Çorum',
+        population: 145495
+      },
+      {
+        district: 'Kütahya',
+        _id: 3389,
+        name: 'Kütahya',
+        population: 144761
+      },
+      {
+        district: 'Hatay',
+        _id: 3390,
+        name: 'Hatay (Antakya)',
+        population: 143982
+      },
+      {
+        district: 'Kirikkale',
+        _id: 3391,
+        name: 'Kirikkale',
+        population: 142044
+      },
+      {
+        district: 'Adiyaman',
+        _id: 3392,
+        name: 'Adiyaman',
+        population: 141529
+      },
+      {
+        district: 'Trabzon',
+        _id: 3393,
+        name: 'Trabzon',
+        population: 138234
+      },
+      { district: 'Ordu', _id: 3394, name: 'Ordu', population: 133642 },
+      {
+        district: 'Aydin',
+        _id: 3395,
+        name: 'Aydin',
+        population: 128651
+      },
+      { district: 'Usak', _id: 3396, name: 'Usak', population: 128162 },
+      {
+        district: 'Edirne',
+        _id: 3397,
+        name: 'Edirne',
+        population: 123383
+      },
+      {
+        district: 'Tekirdag',
+        _id: 3398,
+        name: 'Çorlu',
+        population: 123300
+      },
+      {
+        district: 'Isparta',
+        _id: 3399,
+        name: 'Isparta',
+        population: 121911
+      },
+      {
+        district: 'Karabük',
+        _id: 3400,
+        name: 'Karabük',
+        population: 118285
+      },
+      {
+        district: 'Kilis',
+        _id: 3401,
+        name: 'Kilis',
+        population: 118245
+      },
+      {
+        district: 'Antalya',
+        _id: 3402,
+        name: 'Alanya',
+        population: 117300
+      },
+      {
+        district: 'Mardin',
+        _id: 3403,
+        name: 'Kiziltepe',
+        population: 112000
+      },
+      {
+        district: 'Zonguldak',
+        _id: 3404,
+        name: 'Zonguldak',
+        population: 111542
+      },
+      {
+        district: 'Siirt',
+        _id: 3405,
+        name: 'Siirt',
+        population: 107100
+      },
+      {
+        district: 'Sanliurfa',
+        _id: 3406,
+        name: 'Viransehir',
+        population: 106400
+      },
+      {
+        district: 'Tekirdag',
+        _id: 3407,
+        name: 'Tekirdag',
+        population: 106077
+      },
+      {
+        district: 'Karaman',
+        _id: 3408,
+        name: 'Karaman',
+        population: 104200
+      },
+      {
+        district: 'Afyon',
+        _id: 3409,
+        name: 'Afyon',
+        population: 103984
+      },
+      {
+        district: 'Aksaray',
+        _id: 3410,
+        name: 'Aksaray',
+        population: 102681
+      },
+      {
+        district: 'Adana',
+        _id: 3411,
+        name: 'Ceyhan',
+        population: 102412
+      },
+      {
+        district: 'Erzincan',
+        _id: 3412,
+        name: 'Erzincan',
+        population: 102304
+      },
+      {
+        district: 'Diyarbakir',
+        _id: 3413,
+        name: 'Bismil',
+        population: 101400
+      },
+      {
+        district: 'Aydin',
+        _id: 3414,
+        name: 'Nazilli',
+        population: 99900
+      },
+      {
+        district: 'Tokat',
+        _id: 3415,
+        name: 'Tokat',
+        population: 99500
+      },
+      { district: 'Kars', _id: 3416, name: 'Kars', population: 93000 },
+      {
+        district: 'Bursa',
+        _id: 3417,
+        name: 'Inegöl',
+        population: 90500
+      },
+      {
+        district: 'Balikesir',
+        _id: 3418,
+        name: 'Bandirma',
+        population: 90200
+      },
+      { district: 'N/A', _id: 4081, name: 'Fictional', population: 2 },
+      { district: 'N/A', _id: 4082, name: 'No name', population: 3 }
+    ],
+    continent: 'Asia',
+    gnp: 20000,
+    governmentForm: 'Republic',
+    headOfState: 'Ahmet Necdet Sezer',
+    indepYear: 1923,
+    lifeExpectancy: 85,
+    localName: 'Türkiye',
+    name: 'Turkey',
+    population: 5,
+    region: 'Middle East',
+    surfaceArea: 764828
+  }
