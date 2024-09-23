@@ -4,8 +4,13 @@ import java.util.List;
 import java.util.Objects;
 
 import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.index.Indexed;
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.Field;
+
+import jakarta.validation.constraints.Min;
+import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.Positive;
 
 @Document(collection = "countries")
 public class Country {
@@ -13,13 +18,17 @@ public class Country {
 	private String code;
 	private String name;
 	private double surfaceArea;
+	@Indexed(unique = true)
 	private int capital;
 	private int population;
 	@Field(name = "indepYear")
+	@Indexed
 	private int independenceYear;
+	@NotBlank
 	private String continent;
 	private String governmentForm;
 	private String headOfState;
+	@Positive
 	private double lifeExpectancy;
 	private String localName;
 	private String region;
